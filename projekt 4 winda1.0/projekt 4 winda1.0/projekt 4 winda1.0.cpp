@@ -1,3 +1,4 @@
+//Eryk Dziadura s200766 ACiR gr.2A
 ﻿#include <iostream>
 #include <vector>
 #include <list>
